@@ -1,0 +1,119 @@
+body {
+	width: 70%;
+	margin-left: 15%;
+	}
+section h1 {
+	text-align: center;
+
+}
+section p {
+	text-align: center;
+}
+#section1 {
+	padding: 10px;
+	background: #e8eff7;
+	border-top: 10px solid #688cd8;
+	border-bottom: 10px solid #688cd8;
+	margin-top: 30pt;
+}
+#section2 {
+	
+	border-top: 10px solid #688cd8;
+	border-bottom: 10px solid #688cd8;
+	margin-top: 30pt;
+	
+	
+}
+#experience{
+	display: block;
+font-weight: bold;
+}
+#liste{
+	margin-left: 100px;
+}
+img{
+	border: none;
+   float: left;
+   width: 3px
+    height: 3px;
+   /* padding-top: 80px;
+    padding-right: 30px; */
+}
+
+article {
+	
+	background: #e8eff7;
+	vertical-align: middle;
+	padding: 0px;
+	margin-top: -20px;
+	
+}
+#article-section h1 {
+	color: #385ca8;
+	text-transform: uppercase; 
+	padding: 5px;
+	margin-left:  -800px;
+}
+#article-section2 h1 {
+	color: #385ca8;
+	text-transform: uppercase; 
+	padding: 5px;
+	margin-left:  -600px;
+}
+.info {
+	margin-bottom: 10px;
+}
+/*.formation {
+	margin: 5px 0px 5px 0px;
+}*/
+#adresse {
+	font-family: monospace;
+	text-align: left;
+}
+
+#font {
+	width: 100px;
+	display: block;
+	float: left;
+	font-weight: bold;
+}
+img{
+	border: none;
+    float: right;
+    width: 180px;
+    padding-top: 20px;
+    padding-right: 30px;
+}
+#section3{
+	border-top: 2px solid #688cd8;
+	border-bottom: 2px solid #688cd8;
+	margin-top: 30pt;
+	text-align: center;
+	letter-spacing: 3px;
+	text-decoration: none;
+	font-size: 10px;
+}
+table {
+     width: 100%;  
+}
+
+
+tr, td {
+    border-bottom: 1px solid #ddd;
+    height: 20px;
+    align
+}
+
+.item{
+	list-style-image: url('Bullet-blue.png');
+	clear: both;
+}
+.item ul{
+	list-style-image: url('Bullet_go.png');
+	clear: both;
+}
+.item ul li{
+	margin-right: 20px;
+	float: left;
+	font-size:14px;
+}
